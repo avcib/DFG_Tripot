@@ -15,7 +15,7 @@ This GitHub repository contains the Phyton code associated with the data descrip
   
   Option A. 1) Close the repository to a local environment, 2) Add your raw experimental data (as .txt or .csv), and 3) Run the script, main.py. 
    
-   Option B. 1) Make a copy from the public Google Colab link (https://drive.google.com/drive/folders/1QHJ2wWERrZ26aeoMX7Jf5ze0MeFTS1gi?usp=drive_link), Add your raw experimental data (as .txt or .csv), and 3) Run the script online.
+   Option B. 1) Make a copy from the public Google Colab link (https://drive.google.com/drive/folders/1QHJ2wWERrZ26aeoMX7Jf5ze0MeFTS1gi?usp=drive_link), Add your raw experimental data (as .txt, to folder experimental), and 3) Run the script online.
   
 [1] Avci, B., Farahani, P., Riemer, O., Karpuschewski, B., & Mehner, A. Dataset on surface topographies prepared by micro-milling and their friction coefficients in dry sliding. _Under review._
 	
