@@ -1,4 +1,4 @@
-# DFG_Tripot Dataset Friction Data Analysis
+# DFG_Tripot Dataset and Friction Data Analysis
 
 This GitHub repository contains the Phyton code associated with the data descriptor (also known as data note) article, entitled "Dataset on surface topographies prepared by micro-milling and their friction coefficients in dry sliding" [1]. It makes use of the "Dataset on surface topographies prepared by micro-milling and their friction coefficients in dry sliding" [2]. The provided code allows the users to process and visualize friction data as a function of scratch cycles in linear tribometer configuration and to calculate the average coefficient of friction (CoF) per cycle.
 
